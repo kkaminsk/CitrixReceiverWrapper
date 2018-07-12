@@ -5,21 +5,21 @@ https://configmgrblog.com/2017/08/29/how-to-deploy-the-citrix-receiver-for-windo
 
 # Features
 
-** Signed **
+**Signed**
 Makes UAC happy and ensures that you can have some confidence in where the installer came from.
 
-** Source files **
+**Source files**
 I've included source files in case you want to use advanced installer to customize this installer.
 
-** Modern UI for manual installations **
+**Modern UI for manual installations**
 The installer uses a touch friendly UI for modern devices.
 
-** Supports manual installs **
+**Supports manual installs**
 Added some text to the installation in case you want to hand this installer out to technicians or end users.
 
-** Supports uninstalls **
+**Supports uninstalls**
 The blog article didn't cover it but I decided that the wrapper needed to support uninstalls as well.
 
-** Pre-configured **
+**Pre-configured**
 The installation command line for the wrapper is as follows:
 /silent /AutoUpdateCheck=auto /AutoUpdateStream=Current /DeferUpdateCount=5 /AURolloutPriority=Medium /NoReboot /AllowAddStore=N /EnableCEIP=false
