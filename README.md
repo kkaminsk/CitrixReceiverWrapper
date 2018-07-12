@@ -18,7 +18,7 @@ The installer uses a touch-friendly UI for modern devices.
 Added some text to the installation in case you want to hand this installer out to technicians or end users.
 
 **Supports uninstalls:**
-The blog article didn't cover it, but I decided that the wrapper needed to support uninstalls as well.
+I decided that the wrapper needed to support uninstalls as well.
 
 **Pre-configured:**
 The installation command line for the wrapper is as follows:
