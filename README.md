@@ -6,6 +6,7 @@ https://configmgrblog.com/2017/08/29/how-to-deploy-the-citrix-receiver-for-windo
 # Features
 
 **Signed:**
+Provides a better UAC experience by using a code signing certificate from Starfield Technologies (GoDaddy) and ensures that you can have some confidence in the contents of the installation package.
 
 **Source files:**
 I've included source files in case you want to use Advanced Installer to recompile this installer from the original project files.
