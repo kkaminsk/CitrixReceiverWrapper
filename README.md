@@ -11,11 +11,11 @@ Makes UAC happy and ensures that you can have some confidence in where the insta
 **Source files:**
 I've included source files in case you want to use advanced installer to customize this installer.
 
-**Modern UI for manual installations:**
-The installer uses a touch friendly UI for modern devices.
-
 **Supports manual installs:**
 Added some text to the installation in case you want to hand this installer out to technicians or end users.
+
+**Modern installer UI:**
+The installer uses a touch friendly UI for modern devices.
 
 **Supports uninstalls:**
 The blog article didn't cover it but I decided that the wrapper needed to support uninstalls as well.
