@@ -11,8 +11,6 @@ Provides a better UAC experience by using a code signing certificate from Starfi
 **Source files:**
 I've included source files in case you want to use Advanced Installer to recompile this installer from the original project files.
 
-<<<<<<< HEAD
-=======
 **Modern UI for manual installations:**
 The installer uses a touch-friendly UI for modern devices.
 
