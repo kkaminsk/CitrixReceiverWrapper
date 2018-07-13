@@ -9,8 +9,14 @@ https://configmgrblog.com/2017/08/29/how-to-deploy-the-citrix-receiver-for-windo
 Makes UAC happy and ensures that you can have some confidence in where the installer came from.
 
 **Source files:**
-I've included source files in case you want to use advanced installer to customize this installer.
+I've included source files in case you want to use Advanced Installer to recompile this installer from the original project files.
 
+<<<<<<< HEAD
+=======
+**Modern UI for manual installations:**
+The installer uses a touch-friendly UI for modern devices.
+
+>>>>>>> 1d6ab8394352af7f43821f6219ccbc89fbaaba1c
 **Supports manual installs:**
 Added some text to the installation in case you want to hand this installer out to technicians or end users.
 
@@ -18,7 +24,7 @@ Added some text to the installation in case you want to hand this installer out 
 The installer uses a touch friendly UI for modern devices.
 
 **Supports uninstalls:**
-The blog article didn't cover it but I decided that the wrapper needed to support uninstalls as well.
+I decided that the wrapper needed to support uninstalls as well.
 
 **Pre-configured:**
 The installation command line for the wrapper is as follows:
