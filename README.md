@@ -3,10 +3,10 @@ The Citrix MSI wrapper was something that came up when modern desktop customers 
 
 https://configmgrblog.com/2017/08/29/how-to-deploy-the-citrix-receiver-for-windows-10-via-microsoft-intune
 
-And another article by Aaron Parker
+And another article by Aaron Parker:
 https://stealthpuppy.com/deploy-citrix-receiver-intune/
 
-See my blog article over here
+See my blog article over here:
 http://www.checkyourlogs.net/?p=54093
 
 # Features
