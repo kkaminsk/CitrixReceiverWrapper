@@ -3,7 +3,16 @@ The Citrix MSI wrapper was something that came up when modern desktop customers 
 
 https://configmgrblog.com/2017/08/29/how-to-deploy-the-citrix-receiver-for-windows-10-via-microsoft-intune
 
+And another article by Aaron Parker:
+https://stealthpuppy.com/deploy-citrix-receiver-intune/
+
+See my blog article over here:
+http://www.checkyourlogs.net/?p=54093
+
 # Features
+
+**Always installs latest version:**
+By downloading the underlying installer from Citrix this wrapper always installs the latest version of the Citrix Receiver.
 
 **Signed:**
 Provides a better UAC experience by using a code signing certificate from Starfield Technologies (GoDaddy) and ensures that you can have some confidence in the contents of the installation package.
@@ -14,7 +23,6 @@ I've included source files in case you want to use Advanced Installer to recompi
 **Modern UI for manual installations:**
 The installer uses a touch-friendly UI for modern devices.
 
->>>>>>> 1d6ab8394352af7f43821f6219ccbc89fbaaba1c
 **Supports manual installs:**
 Added some text to the installation in case you want to hand this installer out to technicians or end users.
 
