@@ -22,7 +22,7 @@
     <ROW Property="ARPSYSTEMCOMPONENT" Value="1"/>
     <ROW Property="AiPreferFastOem" MultiBuildValue="DefaultBuild:1"/>
     <ROW Property="AppLogoIcon" Value="JusttheLogoMSI.jpg" Type="1" MsiKey="AppLogoIcon"/>
-    <ROW Property="Background" Value="background" MultiBuildValue="DefaultBuild:FullLogoMSI04.jpg" Type="1" MsiKey="Background"/>
+    <ROW Property="Background" Value="background" MultiBuildValue="DefaultBuild:FullLogoMSI05.jpg" Type="1" MsiKey="Background"/>
     <ROW Property="GlassBackground" Value="JusttheLogoMSIBackground.jpg" Type="1" MsiKey="GlassBackground"/>
     <ROW Property="Manufacturer" Value="Big Hat Group Inc."/>
     <ROW Property="MsiLogging" MultiBuildValue="DefaultBuild:vp"/>
@@ -107,7 +107,7 @@
     <ROW Action="AI_XmlUninstall" Description="Generating actions to configure XML files" DescriptionLocId="ActionText.Description.AI_XmlUninstall"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiBinaryComponent">
-    <ROW Name="FullLogoMSI04.jpg" SourcePath="D:\Onedrive\Stock Photo\Big Hat Group New\Full-Logo-MSI-04.jpg"/>
+    <ROW Name="FullLogoMSI05.jpg" SourcePath="D:\Onedrive\Stock Photo\Big Hat Group New\Full-Logo-MSI-05.jpg"/>
     <ROW Name="JusttheLogoMSI.jpg" SourcePath="D:\Onedrive\Stock Photo\Big Hat Group New\Just-the-Logo-MSI.jpg"/>
     <ROW Name="JusttheLogoMSIBackground.jpg" SourcePath="D:\Onedrive\Stock Photo\Big Hat Group New\Just the Logo MSI Background.jpg"/>
     <ROW Name="Prereq.dll" SourcePath="&lt;AI_CUSTACTS&gt;Prereq.dll"/>
